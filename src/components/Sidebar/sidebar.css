@@ -39,7 +39,6 @@
 
 .sidebar__content {
   display: flex;
-
   justify-content: space-between;
   flex-direction: column;
   height: calc(100% - 20%);
@@ -70,7 +69,6 @@
 
 .nav__list {
   display: flex;
-
   row-gap: 2rem;
   flex-direction: column;
   color: var(--small-text-color);
